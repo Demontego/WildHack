@@ -6,3 +6,6 @@
 ## Пояснения к коду
 Предобученная модель лежит тут https://drive.google.com/file/d/112Niy41kJZjTX1bLYrH8aXyAMOqs-qbN/view?usp=sharing
 надо скачать и распаковать. внизу ноутбука инференс
+
+
+Если возникают проблемы, то пишите в телегу @demontego
